@@ -1,9 +1,9 @@
-<img src="well.png" width="1018" height="300">
+<img src="well.png" width="1018" height="350">
 
 <h1 align="center">Hello there 👋, I'm Shubham Naik</h1>
 <h3 align="center">🚀As a dedicated student, I strive to continuously learn, grow, and improve myself, always eager to take on new challenges and acquire fresh skills. Outside of coding, I enjoy immersing myself in the competitive and strategic world of Counter Strike 2, where I find both fun and inspiration. </h3>
 
-<h3 align="center">🌱 As a fresher, I'm constantly expanding my skills in React.js, JavaScript, and other web development tools. I love diving into new challenges and figuring out how things work from the ground up.</h3>
+<h3 align="center">🌱 As a fresher, I'm constantly expanding my skills in React.js, JavaScript, and other development, testing, automation tools. I love diving into new challenges and figuring out how things work from the ground up.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
