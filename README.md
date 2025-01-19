@@ -1,11 +1,7 @@
 <img src="well.png" width="800" height="300">
 
-
-# Hi There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Shubham Naik
-
- <h1 align="center">Hello there 👋, I'm Shubham Naik</h1>
-<h3 align="center">🚀As a dedicated student, I strive to continuously learn, grow, and improve myself, always eager to take on new challenges and acquire fresh skills. Outside of coding, I enjoy immersing myself in the competitive and strategic world of Counter Strike 2, where I find both fun and inspiration. 
- 🌱 As a fresher, I'm constantly expanding my skills in React.js, JavaScript, and other web development tools. I love diving into new challenges and figuring out how things work from the ground up.</h3>
+<h1 align="center">Hello there 👋, I'm Shubham Naik</h1>
+<h3 align="center">🚀As a dedicated student, I strive to continuously learn, grow, and improve myself, always eager to take on new challenges and acquire fresh skills. Outside of coding, I enjoy immersing myself in the competitive and strategic world of Counter Strike 2, where I find both fun and inspiration. 🌱 As a fresher, I'm constantly expanding my skills in React.js, JavaScript, and other web development tools. I love diving into new challenges and figuring out how things work from the ground up.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
